@@ -23,6 +23,8 @@ pub fn fibonacci() {
             next = initial;
             initial= 1+initial;
         }
+        
+
 
         else{
             next = first + second;
